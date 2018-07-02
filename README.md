@@ -1,1 +1,1 @@
-gallery
+Gallery idea based on css flex.
